@@ -5,4 +5,4 @@ Rozhovor s autorem kanálu Linux pro začátečníky:
 
 ### Další nedůležité věci:
 - moje poznámky k rozhovoru: https://github.com/filip2cz/rozhovor-linux-pro-zacatecniky/blob/main/poznamky.md
-- nesestříhaná verze:
+- nesestříhaná verze: [bude doplněno až rozhovor vyjde]
