@@ -1,6 +1,6 @@
 # Rozhovor: Linux pro začátečníky
 Rozhovor s Jamesem, autorem kanálu Linux pro začátečníky:
-- rozhovor: [bude doplněno až rozhovor vyjde]
+- rozhovor: https://github.com/filip2cz/rozhovor-linux-pro-zacatecniky/raw/main/rozhovor-linux-pro-zacatecniky.mp3
 - kanál hosta: https://www.youtube.com/@linuxprozacatecniky432
 
 ### Backend:
