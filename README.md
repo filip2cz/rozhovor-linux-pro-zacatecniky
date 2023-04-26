@@ -5,5 +5,5 @@ Rozhovor s Jamesem, autorem kanálu Linux pro začátečníky:
 
 ### Backend:
 Ve složce backend jsou tyto věci:
-- nesestříhaná verze: [bude doplněno až rozhovor vyjde]
+- nesestříhaná verze: https://github.com/filip2cz/rozhovor-linux-pro-zacatecniky/releases/download/v0.2/rozhovor-linux-pro-zacatecniky.mp3
 - moje poznámky k rozhovoru: https://github.com/filip2cz/rozhovor-linux-pro-zacatecniky/blob/main/poznamky.md
